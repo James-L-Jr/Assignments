@@ -1,4 +1,4 @@
-package com.hcl.cong.hibernate1.hibernate_demo1;
+package com.hcl.james.hibernatetest;
 
 import static org.junit.Assert.assertTrue;
 
